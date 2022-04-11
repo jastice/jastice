@@ -1,6 +1,6 @@
 ### Hello, I'm Justin Kaeser
 
-I work at [JetBrains](https://github.com/JetBrains/) on the [Scala plugin for IntelliJ IDEA](https://github.com/JetBrains/intellij-scala). I mostly focus on build tool integration, specifically sbt and developing the [Build Server Protocol](https://build-server-protocol.github.io/).
+I work at [JetBrains](https://github.com/JetBrains/) in various capacities. I coordinate development for Bazel support in IntelliJ IDEA through [bazel-bsp](https://github.com/JetBrains/bazel-bsp) and [the Bazel plugin for IntelliJ](https://github.com/bazelbuild/intellij), and I am a member of the [Scala plugin for IntelliJ IDEA](https://github.com/JetBrains/intellij-scala) team, focusing on build tool integration, specifically sbt and developing the [Build Server Protocol](https://build-server-protocol.github.io/).
 
 ## Projects I'm currently involved in
 
@@ -18,18 +18,4 @@ I work at [JetBrains](https://github.com/JetBrains/) on the [Scala plugin for In
 
 <!--
 
-## Some conference appearances
-
-**jastice/jastice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
