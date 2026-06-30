@@ -4,8 +4,9 @@ I work on developer tooling at [JetBrains](https://github.com/JetBrains/). I am 
 
 ## Projects I'm currently involved in
 
-- [JetBrains Bazel Plugin](https://github.com/JetBrains/hirschgarten) for IntelliJ IDEA, GoLand, and PyCharm. I'm the team lead, product manager, and responsible for customer success in Bazel integration for some of JetBrains' largest customers.
+- [JetBrains Bazel Plugin](https://github.com/JetBrains/hirschgarten) for IntelliJ IDEA, GoLand, and PyCharm. I'm responsible for the product and business in the Bazel ecosystem at JetBrains, working closely with some of our largest customers.
 - [rules_agents](https://github.com/jastice/rules_agents) - configure and run agents, discover and manage agent skill profiles from Bazel
+- [Insola](https://github.com/jastice/insola) - Android UV and sunlight exposure tracking app. Perhaps the only one with proper prediction of UV exposure and burn risk integrated over the day.
 
 ## Some projects I've started or contributed to in the past
 
@@ -15,8 +16,3 @@ I work on developer tooling at [JetBrains](https://github.com/JetBrains/). I am 
 * [Scredis](https://github.com/scredis/scredis) - Akka-based Redis client for Scala
 * [Gringotts](https://github.com/MinecraftWars/Gringotts) - Minecraft Bukkit server plugin, supporting an item-based economy
 * [Boxes and Bubbles](https://github.com/jastice/boxes-and-bubbles) - a really simple 2D physics engine in Elm
-
-
-<!--
-
--->
