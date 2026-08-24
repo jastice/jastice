@@ -8,6 +8,7 @@ I work on developer tooling at [JetBrains](https://github.com/JetBrains/). I am 
 - [rules_agents](https://github.com/jastice/rules_agents) - configure and run agents, discover and manage agent skill profiles from Bazel
 - [Insola](https://github.com/jastice/insola) - Android UV and sunlight exposure tracking app. Perhaps the only one with proper prediction of UV exposure and burn risk integrated over the day.
 - [ONI Material Graph](https://github.com/jastice/oni-material-graph) - interactive explorer for the material transformations in Oxygen Not Included
+- [nenkima](https://nenkima.co.ke/) - solar-powered charging and energy sites for electric mobility in northern Kenya.
 
 ## Some projects I've started or contributed to in the past
 
