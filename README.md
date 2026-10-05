@@ -9,6 +9,7 @@ I work on developer tooling at [JetBrains](https://github.com/JetBrains/). I am 
 - [Insola](https://github.com/jastice/insola) - Android UV and sunlight exposure tracking app. Perhaps the only one with proper prediction of UV exposure and burn risk integrated over the day.
 - [ONI Material Graph](https://github.com/jastice/oni-material-graph) - interactive explorer for the material transformations in Oxygen Not Included
 - [nenkima](https://nenkima.co.ke/) - solar-powered charging and energy sites for electric mobility in northern Kenya.
+- [Mindless Midi](https://github.com/jastice/mindless-midi) - endless background music in a browser tab: LLM-written musical material, arranged forever by a seeded algorithm and played on an emulated OPL3 FM chip. [Listen here](https://jastice.github.io/mindless-midi/).
 
 ## Some projects I've started or contributed to in the past
 
